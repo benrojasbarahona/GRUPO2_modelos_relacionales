@@ -17,3 +17,6 @@ Equipo de Desarrollo
 
     Benjamín Rojas Barahona
     benrojasbarahona@gmail.com
+
+Excel
+https://docs.google.com/spreadsheets/d/1avfQAISvGafPC6IdEIVpBDnEdtuObcIDxDsi0LDPEbw/edit?gid=1086733904#gid=1086733904
